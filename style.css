@@ -111,8 +111,9 @@ footer{
     background-color: black;
     width: 100%;
     height: 30%;
-    font-weight:300;
-    font-size: 2mm;
+    font-weight:200;
+    font-size: 3%;
+    padding-bottom: 5%;
 }
 .footer-last{
     font-weight: 300;
